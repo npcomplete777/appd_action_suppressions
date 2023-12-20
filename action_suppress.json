@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "name": "test action suppression",
+  "disableAgentReporting": false,
+  "suppressionScheduleType": "ONE_TIME",
+  "timezone": "Asia/Kolkata",
+  "startTime": "2023-12-14T11:43:00",
+  "endTime": "2023-12-14T12:43:00",
+  "recurringSchedule": null,
+  "affects": {
+    "affectedInfoType": "APPLICATION"
+  },
+  "healthRuleScope": null
+}
